@@ -1,0 +1,9 @@
+{
+  "short_name": "React Modal Component",
+  "name": "React Modal Component Sample",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
